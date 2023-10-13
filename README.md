@@ -24,9 +24,6 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatiTothPimentel&theme=transparent&bg_color=5D14A6&border_color=000&show_icons=true&icon_color=30A3DC&title_color=000&text_color=FFF)
 
-## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tatiTothPimentel&repo=dio-lab-open-source&bg_color=5D14A6&border_color=000&show_icons=true&icon_color=000&title_color=000&text_color=FFF)](thhps://github.com/83Rafa/dio-lab-open-source)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tatiTothPimentel&label=Profile%20Views&color=6&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
