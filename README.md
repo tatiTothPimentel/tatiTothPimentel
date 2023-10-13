@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D14A6&height=120&section=header"/>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=CFCECB&center=falso&vCenter=falso&lines=👋+Hello+World,+Tatiane+Toth+aqui;👋+Bienvenida(o)+to+my+profile+)](https://git.io/typing-svg)
